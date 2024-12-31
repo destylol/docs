@@ -2,7 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "nebora.org",
   "logo": {
-    "dark": "/favicon.png",
+    "dark": "/logo/favicon(1).png",
+    "light": "/logo/favicon(1).png",
   },
   "favicon": "/favicon.png",
   "colors": {
