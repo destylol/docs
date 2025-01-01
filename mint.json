@@ -18,12 +18,12 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "https://discord.gg/nebora"
+      "url": "mailto:hi@mintlify.com"
     }
   ],
   "topbarCtaButton": {
-    "name": "Home",
-    "url": "https://nebora.org"
+    "name": "Dashboard",
+    "url": "https://dashboard.mintlify.com"
   },
   "anchors": [
     {
@@ -40,4 +40,10 @@
         "purchase"
       ]
     }
-  ]
+  ],
+  "footerSocials": {
+    "x": "https://x.com/mintlify",
+    "github": "https://github.com/mintlify",
+    "linkedin": "https://linkedin.com/company/mintlify"
+  }
+}
